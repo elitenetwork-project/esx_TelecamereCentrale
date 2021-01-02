@@ -1,6 +1,7 @@
 # esx_TelecamereCentrale
 
-<center><img src="https://cdn.discordapp.com/attachments/706317867800330310/773239608237752370/logo_EliteRoleplay.png" width="200px" height="200px"></center>
+<img src="https://cdn.discordapp.com/attachments/706317867800330310/773239608237752370/logo_EliteRoleplay.png" width="200px" height="200px" align="left">
+<img src="https://imgur.com/yczT0Eb" align="right">
 
 ### Requisiti
 * ES_EXTENDED
