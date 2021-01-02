@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/yczT0Eb.png" width="200px" height="200px" align="right">
 <h1 align="center">EliteNetwork</h1>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <hr>
 
 ### Requisiti
